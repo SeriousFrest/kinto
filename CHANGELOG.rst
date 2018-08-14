@@ -7,6 +7,10 @@ This document describes changes between each past release.
 9.3.0 (unreleased)
 ------------------
 
+**Breaking changes**
+
+- The ``basicauth`` policy is not used by default anymore
+
 **New features**
 
 - Include Python 3.7 support.
